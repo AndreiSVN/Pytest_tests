@@ -1,2 +1,2 @@
 # Pytest_tests
- autotest for PetFriends
+ Набор автотестов для тестирования API-запросов для Petfriends
